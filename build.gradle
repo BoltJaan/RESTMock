@@ -32,7 +32,7 @@ ext {
     targetSdk = 29
     minSdk = 21
     buildTools = "29.0.2"
-    okHttpVersion = "4.9.1"
+    okHttpVersion = "5.0.0-alpha.9"
     butterKnifeVersion = "10.2.1"
     espressoVersion = "3.4.0"
     junitVersion = "4.13.2"
